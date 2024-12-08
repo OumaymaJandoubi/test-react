@@ -1,0 +1,138 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Appliances"
+    },
+    {
+      "id": 3,
+      "name": "Accessories"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Refined Concrete Soap",
+      "price": 801,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 499,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 149,
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Tablet",
+      "price": 349,
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "price": 199,
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Camera",
+      "price": 699,
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "Gaming Console",
+      "price": 299,
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "price": 79,
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "name": "Monitor",
+      "price": 249,
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "name": "Keyboard",
+      "price": 49,
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "name": "Wireless Earbuds",
+      "price": 129,
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "name": "Fitness Tracker",
+      "price": 79,
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "name": "External Hard Drive",
+      "price": 149,
+      "categoryId": 1
+    },
+    {
+      "id": 14,
+      "name": "Coffee Maker",
+      "price": 59,
+      "categoryId": 2
+    },
+    {
+      "id": 15,
+      "name": "Robot Vacuum Cleaner",
+      "price": 299,
+      "categoryId": 2
+    },
+    {
+      "id": 16,
+      "name": "Electric Toothbrush",
+      "price": 39,
+      "categoryId": 2
+    },
+    {
+      "id": 17,
+      "name": "Wireless Router",
+      "price": 89,
+      "categoryId": 1
+    },
+    {
+      "id": 18,
+      "name": "Bluetooth Headset",
+      "price": 59,
+      "categoryId": 1
+    },
+    {
+      "id": 19,
+      "name": "Printer",
+      "price": 199,
+      "categoryId": 1
+    },
+    {
+      "id": 20,
+      "name": "Desk Chair",
+      "price": 149,
+      "categoryId": 2
+    }
+  ]
+}
